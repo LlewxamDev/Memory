@@ -23,3 +23,13 @@ Use quando um video de referencia precisa virar uma composicao nova, mantendo au
 - Legenda inferior central, branco pesado, sombra/contorno preto e base escura.
 - Tipografia grande em viradas de assunto: gancho, problema, identidade, padroes, fontes, cores e checklist.
 - Camada visual com saturacao alta, vinheta forte, halftone, grao e linhas de energia.
+
+## Licoes adicionadas pela transcricao detalhada
+
+- Identidade visual deve ser tratada como sistema: cor, fonte, miniatura, borda, transicao, legenda, rosto, cenario e iluminacao.
+- O nicho vem antes da estetica. A pergunta util e: se esse canal fosse uma pessoa, como ele se vestiria?
+- Padrao gera confianca porque o publico sabe o que esperar.
+- Fonte e voz escrita. Use no maximo duas: uma de impacto e outra de apoio.
+- Cores sao mensagem antes do rosto e antes do logo.
+- Biblioteca pessoal de assets reduz decisao repetitiva e ajuda consistencia.
+- Nao reinventar a roda a cada video; implementar, testar e manter o sistema por tempo suficiente.
